@@ -1,0 +1,8 @@
+I;Mario;Rossi;Uomo;75;63
+I;Andrea;Bianchi;Uomo;69;55
+C;rpj;Rope-Jump;20
+C;brp;Burpees;10
+W;ddl;Deadlift;6;150
+W;sqt;Squat;6;120
+P;psu;Push-up;24.5
+P;pu;Pull-up;34.5
